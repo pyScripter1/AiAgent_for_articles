@@ -1,0 +1,5 @@
+requests~=2.32.4
+PyPDF2~=3.0.1
+langchain-core~=0.3.68
+langchain-community~=0.3.27
+langgraph~=0.5.1
